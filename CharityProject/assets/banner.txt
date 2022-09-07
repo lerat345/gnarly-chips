@@ -1,0 +1,48 @@
+<div class="banner">
+
+
+        <div   class="banner-text  ">
+            <div  class="
+            .flex-container" >
+                <h1 class="text-center">Giving hope to the</h1>
+                <h1  >Hopeless</h1>
+            </div>
+
+            <div>
+                <button>Donate</button>
+                <button>volunteer</button>
+            </div>   
+        </div>
+
+
+        <div class="row flex-container ">
+            <div class=" col-lg-4 col-sm-12 service"   style="background-color: white;"></div>
+            <div class="col-lg-4  col-sm-12 service"   style="background-color: white;"></div>
+        </div>
+
+     
+    </div>
+
+
+
+
+ <div class="row  flex-container"  >
+                    <div  class="col-lg-2 col-sm-12" style="background-color:green ; width: 100px;height: 100px;margin:10px">
+                        <img src="assets/fb logo.jpg ">
+                       
+                        
+                    </div>
+                    <div  class="col-lg-2 col-sm-12" style="background-color:black ; width: 100px;height: 100px;margin:10px" >
+                        <img src="assets/twitter logo.jpg">
+
+                   </div>
+                    <div  class="col-lg-2 col-sm-12" style ="background-color:grey ; width: 100px;height: 100px;margin:10px">
+                        <img src="assets/gram logo.jpg">
+
+                    </div> 
+                    
+
+                    <div  class="col-lg-2 col-sm-12"style ="background-color:red ; width: 100px;height: 100px;margin:10px">
+                        <img src="assets/youtube logo.jpg"> 
+
+                    </div>

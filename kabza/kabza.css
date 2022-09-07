@@ -1,0 +1,22 @@
+.about-box{
+    width: 413px;
+    height: 220px;
+    margin:20px;
+}
+.about{
+    width: 1320px;
+    height: 58px;
+    font-family:"inter";
+    font-style: normal;
+    font-weight: 100;
+    font-size: 15px;
+    line-height: 18px;
+    color: black;
+}
+.jumbotron{
+    background-image: url('ART1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}

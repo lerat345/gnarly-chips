@@ -1,0 +1,33 @@
+
+body{
+  background-color:wheat;
+  background-image: url('./components/images/back.png');
+  text-align: center;
+  background-size: cover;
+}
+li{
+  color: blueviolet;
+  margin-left: -400px;
+  margin-right: -300px
+}
+.box{
+  background-color: bisque;
+  padding: 20px;
+  padding-bottom:100px;
+ width: 30%;
+ height: 600px;
+  
+
+  
+}
+
+
+  
+
+
+
+
+
+
+
+

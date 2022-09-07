@@ -1,0 +1,42 @@
+.services{
+    width: 200px;
+    height: 100px;
+    border: solid black 1px;
+    display: block;
+    
+    
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    
+
+}
+h2{
+    text-align: center;
+}
+.programme{
+    width: 200px;
+    height: 100px;
+    border: solid black 1px;
+    display: grid;
+
+}
+.programmes{
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
+}
+.banner{
+    height: 500px;
+    width: 2000px;
+    background-image: url('./img3.jpg');
+    background-repeat: no-repeat;
+
+
+}
+
+
+.banner h1 {
+    color: blue;
+}
+
